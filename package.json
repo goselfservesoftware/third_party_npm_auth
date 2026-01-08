@@ -1,10 +1,14 @@
 {
-  "name": "@avinashkubsad141/auth_third_party",
-  "version": "1.0.4",
+  "name": "@goselfservesoftware/auth_third_party",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goselfservesoftware/third_party_npm_auth.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "description": "auth-gen",
+  "description": "third_party_npm_auth",
   "author": "avinash.kubsad@goselfserve.in",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -82,10 +86,6 @@
   },
   "directories": {
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/avinashkubsad141/auth-gen.git"
   },
   "keywords": [
     "auth_third_party"
